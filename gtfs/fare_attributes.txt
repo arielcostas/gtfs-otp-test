@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id
+VigoPontevedra,2.5,EUR,0,0,1
+VigoSantiago,7.5,EUR,0,0,1
+PontevedraSantiago,5.5,EUR,0,0,1

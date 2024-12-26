@@ -1,0 +1,7 @@
+trip_id,start_time,end_time,headway_secs,exact_times
+Ruta01Ida,08:00:00,08:00:01,600,1
+Ruta01Ida,15:00:00,15:00:01,600,1
+Ruta01Ida,22:00:00,22:00:01,600,1
+Ruta01Vuelta,08:00:00,08:00:01,600,1
+Ruta01Vuelta,15:00:00,15:00:01,600,1
+Ruta01Vuelta,22:00:00,22:00:01,600,1

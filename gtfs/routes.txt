@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+Ruta01,1,L1,Vigo - Pontevedra - Santiago - SCQ,3,CB2508,FFFFFF
+Ruta02,1,L2,Vigo - Pontevedra - Santiago - A Coruña,3,90278E,FFFFFF
+Ruta03,1,L3,A Coruña - Santiago - SCQ,3,067634,FFFFFF
