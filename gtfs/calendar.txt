@@ -1,2 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-ServLab,1,1,1,1,1,0,0,20241201,20241231
+ServLab,1,1,1,1,1,0,0,20241201,20251231
+ServSab,0,0,0,0,0,1,0,20241201,20251231
+ServDom,0,0,0,0,0,0,1,20241201,20251231

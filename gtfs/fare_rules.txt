@@ -1,4 +1,0 @@
-fare_id,route_id,origin_id,destination_id
-VigoPontevedra,Ruta01,Vigo,Pontevedra
-VigoSantiago,Ruta01,Vigo,Santiago
-PontevedraSantiago,Ruta01,Pontevedra,Santiago

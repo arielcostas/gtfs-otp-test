@@ -1,9 +1,9 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence
-Ruta01Ida,00:00:00,00:00:00,1,1
-Ruta01Ida,00:20:00,00:30:00,2,2
-Ruta01Ida,01:20:00,01:30:00,3,3
-Ruta01Ida,01:50:00,01:50:00,4,4
-Ruta01Vuelta,00:00:00,00:00:00,4,1
-Ruta01Vuelta,00:20:00,00:30:00,3,2
-Ruta01Vuelta,01:20:00,01:30:00,2,3
-Ruta01Vuelta,01:50:00,01:50:00,1,4
+Linea01Ida,00:00:00,00:00:00,1,1
+Linea01Ida,00:20:00,00:30:00,2,2
+Linea01Ida,01:20:00,01:30:00,3,3
+Linea01Ida,01:50:00,01:50:00,4,4
+Linea01Vuelta,00:00:00,00:00:00,4,1
+Linea01Vuelta,00:20:00,00:30:00,3,2
+Linea01Vuelta,01:20:00,01:30:00,2,3
+Linea01Vuelta,01:50:00,01:50:00,1,4
