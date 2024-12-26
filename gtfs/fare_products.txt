@@ -1,0 +1,7 @@
+fare_product_id,fare_product_name,amount,currency,fare_media_id
+pontevedra_vigo_single,Pontevedra-Vigo solo ida,2.50,EUR,
+pontevedra_vigo_single,Pontevedra-Vigo solo ida,1.25,EUR,media_tmg
+pontevedra_santiago_single,Pontevedra-Santiago solo ida,5.00,EUR,media_cash
+pontevedra_santiago_single,Pontevedra-Santiago solo ida,2.50,EUR,media_tmg
+santiago_vigo_single,Santiago-Vigo solo ida,7.50,EUR,
+santiago_vigo_single,Santiago-Vigo solo ida,3.75,EUR,media_tmg

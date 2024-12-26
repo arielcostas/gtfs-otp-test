@@ -1,0 +1,4 @@
+area_id,area_name
+area_vigo,Vigo
+area_pontevedra,Pontevedra
+area_santiago,Santiago

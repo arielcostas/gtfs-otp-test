@@ -3,4 +3,3 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_lat,stop_lon,zone_id
 2,1_2_1,"Pontevedra E.A".,"Pontevedra, Estación de Autobuses",42.42073015445137,-8.637428371511541,Pontevedra
 3,2_1_1,"Santiago E.I.","Santiago, Estación Intermodal",42.87001007456507,-8.543970525098366,Santiago
 4,2_1_2,"Aeropuerto de Santiago","Santiago, Aeropuerto",42.8918703008091,-8.421431515187727,Santiago
-5,2_2_1,"A Coruña E.A.","A Coruña, Estación de Autobuses",43.353497241803694,-8.404741350021135,Coruna

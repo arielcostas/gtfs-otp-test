@@ -1,0 +1,5 @@
+area_id,stop_id
+area_vigo,1
+area_pontevedra,2
+area_santiago,3
+area_santiago,4

@@ -1,0 +1,4 @@
+fare_media_id,fare_media_name,fare_media_type
+media_cash,Efectivo,0
+media_tmg,Tarjeta TMG,2
+media_banca,Tarjeta bancaria,3

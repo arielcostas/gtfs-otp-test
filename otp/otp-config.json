@@ -1,5 +1,9 @@
 {
 	"otpFeatures": {
-		"FaresV2": true
+		"FaresV2": true,
+		"LegacyRestApi": true
+	},
+	"fares": {
+		"type": "default"
 	}
 }

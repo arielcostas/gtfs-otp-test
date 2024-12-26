@@ -1,2 +1,2 @@
-route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-Linea01,1,L1,Vigo - Pontevedra - Santiago - SCQ,3,CB2508,FFFFFF
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,network_id
+Linea01,1,L1,Vigo - Pontevedra - Santiago - SCQ,3,CB2508,FFFFFF,core
